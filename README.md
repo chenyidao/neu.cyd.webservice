@@ -1,2 +1,2 @@
 # neu.java
-关于JAVA的一些小项目
+neu分布式组件与web服务小作业
